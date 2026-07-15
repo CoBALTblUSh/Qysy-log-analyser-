@@ -13,14 +13,13 @@ It includes:
 - Support for .qsyslog, ZIP, TAR/GZIP, normal log files, and extracted directories
 - No cloud connection and no external Python packages
 
-PYCHARM SETUP
+SETUP
 -------------
-1. Create or open any Python project in PyCharm.
-2. Add qsys_log_dashboard.py to the project.
-3. Use Python 3.10 or newer.
-4. Right-click the script and choose Run 'qsys_log_dashboard'.
-5. Select your .qsyslog file when the file chooser appears.
-6. Your default browser will open the dashboard.
+1. Add qsys_log_dashboard.py to the project.
+2. Use Python 3.10 or newer.
+3. Right-click the script and choose Run 'qsys_log_dashboard'.
+4. Select your .qsyslog file when the file chooser appears.
+5. Your default browser will open the dashboard.
 
 You do not need to install packages with pip.
 
